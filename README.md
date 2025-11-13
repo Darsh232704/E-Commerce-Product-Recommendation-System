@@ -5,6 +5,8 @@ Overview:
 This project uses product data (name, category, description, etc.) to recommend items that are similar.
 It is useful for e-commerce websites to improve user experience and product discovery.
 
+
+
 Features:
 
 Recommends top similar products
@@ -17,6 +19,8 @@ Clean and easy-to-understand code
 
 Jupyter Notebook for demonstration
 
+
+
 Tech Used:
 
 Python
@@ -26,6 +30,8 @@ Pandas
 Scikit-learn
 
 Jupyter Notebook
+
+
 
 How It Works:
 
@@ -37,6 +43,8 @@ Calculate similarity between products
 
 Return the top recommended products
 
+
+
 How to Run:
 git clone <your-repo-link>
 cd E-Commerce-Product-Recommendation
@@ -45,6 +53,8 @@ jupyter notebook
 
 
 Open the notebook and run all cells to generate recommendations.
+
+
 
 Example:
 recommend_product("Laptop")
